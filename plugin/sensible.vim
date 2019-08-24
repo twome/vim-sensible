@@ -40,7 +40,6 @@ if &synmaxcol == 3000
   set synmaxcol=500
 endif
 
-set laststatus=2
 set ruler
 set wildmenu
 
